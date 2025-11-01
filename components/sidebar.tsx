@@ -7,7 +7,6 @@ const navItems = [
   { label: "ABOUT", href: "#about" },
   { label: "PROJECTS", href: "#projects" },
   { label: "SKILLS", href: "#skills" },
-  { label: "CONTACT", href: "#contact" },
 ]
 
 const socialLinks = [
@@ -25,11 +24,6 @@ const socialLinks = [
     icon: Mail,
     href: "mailto:chauhan.sameer3101@gmail.com",
     label: "Email",
-  },
-  {
-    icon: Phone,
-    href: "tel:+917739297848",
-    label: "Phone",
   },
 ]
 

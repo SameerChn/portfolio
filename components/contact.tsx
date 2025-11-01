@@ -21,19 +21,11 @@ export function Contact() {
             </Card>
           </a>
 
-          <a href="tel:+917739297848">
-            <Card className="p-6 hover:border-primary/50 hover:bg-card/50 transition-all cursor-pointer h-full">
-              <Phone className="text-primary mb-3" size={24} />
-              <h3 className="text-foreground font-semibold mb-1">Phone</h3>
-              <p className="text-muted-foreground text-sm">+91 7739297848</p>
-            </Card>
-          </a>
-
           <a href="https://github.com/SameerChn" target="_blank" rel="noopener noreferrer">
             <Card className="p-6 hover:border-primary/50 hover:bg-card/50 transition-all cursor-pointer h-full">
               <Github className="text-primary mb-3" size={24} />
               <h3 className="text-foreground font-semibold mb-1">GitHub</h3>
-              <p className="text-muted-foreground text-sm">@SameerChn</p>
+              <p className="text-muted-foreground text-sm">SameerChn</p>
             </Card>
           </a>
 

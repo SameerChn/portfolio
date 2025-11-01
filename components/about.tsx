@@ -29,10 +29,6 @@ export function About() {
               <p className="text-foreground font-semibold">Bhilai, CG</p>
             </div>
             <div className="bg-card p-4 rounded-lg border border-border">
-              <p className="text-sm text-muted-foreground">Phone</p>
-              <p className="text-foreground font-semibold">+91 7739297848</p>
-            </div>
-            <div className="bg-card p-4 rounded-lg border border-border">
               <p className="text-sm text-muted-foreground">Graduation</p>
               <p className="text-foreground font-semibold">July 2027</p>
             </div>
